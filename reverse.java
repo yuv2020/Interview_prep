@@ -26,7 +26,7 @@ class LinkedList{
     public void reverse(){
         Node previous = null;
         Node current = head;
-        Node next = null;
+        Node next = nullA;
 
         while(current.next != null){
             next = current.next;
