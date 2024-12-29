@@ -1,3 +1,4 @@
+//Reverse a linked list.
 
 class Node{
     int data;
